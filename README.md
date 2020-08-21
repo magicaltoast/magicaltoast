@@ -7,6 +7,9 @@ I'm a passionate self-taught javascript web developer from Poland.
 - 😄 Pronouns: he/him
 - ❗Looking for work 
 -  📫 Reach me here: magicaltoast@protonmail.com
+
+## Another places to find me 
+- [NPM](https://www.npmjs.com/~magicaltoast)
 ## Languages and Tools that I love and use:
 - Typescript
 - Docker
